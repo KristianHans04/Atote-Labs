@@ -1,0 +1,23 @@
+node_modules/
+.env
+.env.local
+dist/
+build/
+*.log
+.DS_Store
+.vscode/
+coverage/
+*.swp
+*.swo
+*~
+
+# Server specific
+server/.env
+server/dist/
+
+# Client specific
+client/dist/
+client/build/
+
+# Temporary documentation
+temp_docs/

@@ -1,0 +1,24 @@
+{
+  "name": "atote-labs",
+  "version": "1.0.0",
+  "description": "Atote Labs - Startup Studio Website",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server"
+  },
+  "keywords": [
+    "startup-studio",
+    "pern-stack",
+    "react",
+    "express",
+    "postgresql"
+  ],
+  "author": "Atote Labs",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
