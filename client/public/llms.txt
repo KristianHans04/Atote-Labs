@@ -21,6 +21,7 @@ Each venture created by Atote Labs is built with the same core principles: excep
 - [Ventures](https://atote-labs.pages.dev/ventures): Portfolio of products and startups built by Atote Labs, including Venturely, Scrapifie, and other active projects.
 - [About](https://atote-labs.pages.dev/about): Full company story — the studio model, vision, philosophy (quality over speed, user-centric design, innovation through iteration, sustainable growth), and Nairobi base.
 - [Insights](https://atote-labs.pages.dev/insights): Articles and thought pieces on technology, startups, and the African tech ecosystem.
+- [Insight Article](https://atote-labs.pages.dev/insights/:slug): Individual insight article page with full content, publish date, author, and related articles.
 - [Contact](https://atote-labs.pages.dev/contact): Reach out for partnerships, collaboration, investment, or general inquiries.
 
 ---
