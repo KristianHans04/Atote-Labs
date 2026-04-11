@@ -1,0 +1,55 @@
+# Atote Labs
+
+> Startup studio based in Nairobi, Kenya. Building the next generation of software products.
+
+Website: https://atote-labs.pages.dev
+Built by: Kristian Hans Onjala (https://kristianhans.com)
+
+---
+
+## What is Atote Labs?
+
+Atote Labs is a startup studio based in Nairobi, Kenya, dedicated to building the next generation of software products that make a lasting impact. Unlike traditional companies that focus on a single product, Atote Labs operates as a studio — exploring multiple opportunities simultaneously, validating ideas rapidly, and scaling successful ventures while maintaining lean operations.
+
+Each venture created by Atote Labs is built with the same core principles: exceptional quality, user focus, and sustainable scalability. The studio leverages shared resources, knowledge, and infrastructure across all its products, allowing it to move quickly while maintaining high standards.
+
+---
+
+## Pages on This Website
+
+- [Home](https://atote-labs.pages.dev/): Landing page introducing Atote Labs as a startup studio with mission statement and featured ventures.
+- [Ventures](https://atote-labs.pages.dev/ventures): Portfolio of products and startups built by Atote Labs, including Venturely, Scrapifie, and other active projects.
+- [About](https://atote-labs.pages.dev/about): Full company story — the studio model, vision, philosophy (quality over speed, user-centric design, innovation through iteration, sustainable growth), and Nairobi base.
+- [Insights](https://atote-labs.pages.dev/insights): Articles and thought pieces on technology, startups, and the African tech ecosystem.
+- [Contact](https://atote-labs.pages.dev/contact): Reach out for partnerships, collaboration, investment, or general inquiries.
+
+---
+
+## Company Philosophy
+
+- **Quality Over Speed**: Prioritizing robust, well-architected solutions over rushing to market with half-baked products.
+- **User-Centric Design**: Every decision guided by the needs and experiences of users.
+- **Innovation Through Iteration**: Continuous improvement through data-driven learning and product evolution.
+- **Sustainable Growth**: Building businesses designed to last with sustainable models and long-term thinking.
+
+---
+
+## Ventures Built by Atote Labs
+
+1. **Venturely** — Market intelligence platform tracking 20,000+ startups globally with AI-powered signal detection, verified cap tables, and interactive research. [venturely.kristianhans.com](https://venturely.kristianhans.com)
+2. **Scrapifie** — Enterprise-grade web scraping platform with TLS fingerprinting, CAPTCHA solving, anti-detection, and distributed job queues. [scrapifie.kristianhans.com](https://scrapifie.kristianhans.com)
+
+---
+
+## Technical Information
+
+- **Stack**: React 19, Vite, Tailwind CSS v4, React Router, Node.js, Express, PostgreSQL, Prisma
+- **Design**: Light/dark theme toggle, responsive mobile-first design, professional minimalist aesthetic
+- **Hosting**: Cloudflare Pages (frontend)
+- **Built by**: Kristian Hans Onjala
+
+---
+
+## Key Search Terms
+
+Atote Labs, startup studio Nairobi, startup studio Kenya, software products, Venturely, Scrapifie, Kristian Hans Onjala, tech startup Africa, product studio
